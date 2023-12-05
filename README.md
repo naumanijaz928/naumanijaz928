@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nauman Ijaz</h1>
-<h3 align="center">A passionate MERN Stack | Next.js Developer</h3>
+<h3 align="center">A passionate MERN Stack | Next.js | React.js Developer with over 4 years of Experience</h3>
 
 - 🔭 I’m currently working on **Health Tech ,Remote Patient Monitoring**
 
