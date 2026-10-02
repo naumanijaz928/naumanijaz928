@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nauman Ijaz</h1>
-<h3 align="center">A passionate MERN Stack | Next.js | React.js Developer with over 5 years of Experience</h3>
+<h3 align="center">A passionate Full-Stack Engineer | MERN Stack | Next.js | React.js | Python | FastAPI | AI | AWS |  with over 5 years of Experience</h3>
 
 - 🔭 I’m currently working on **Health Tech ,Remote Patient Monitoring**
 
-- 🌱 I’m currently learning **Nest.js | Three.js | Devops**
+- 🌱 I’m currently learning **Data Science | Three.js | Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/naumanijaz928](https://github.com/naumanijaz928)
 
-- 💬 Ask me about **frontend, Javascript, React, Next, Node.js**
+- 💬 Ask me about **frontend, Backend, Javascript, React, Next, Node.js, Python, FastAPI**
 
 - 📫 How to reach me **naumanijaz928@gmail.com**
 
